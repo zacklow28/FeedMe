@@ -10,6 +10,10 @@
     -fx-border-width: 2px !important;
 }
 
+.scroll-pane {
+    -fx-background-color: #B6FFC1 !important;
+}
+
 .dialog-container {
     -fx-background-color: #F6FFC1 !important;
 }
