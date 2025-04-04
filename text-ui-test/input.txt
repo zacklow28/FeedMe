@@ -1,0 +1,41 @@
+Output.txt
+todo borrow book
+todo
+deadline return book /by 2001-01-01
+deadline
+deadline return book
+deadline 2001-01-01
+deadline /by 2001-01-01
+deadline /by Thursday
+deadline return book /by
+deadline return book /by Thursday
+event sell book /from 2001-01-01 /to 2001-01-02
+event
+event sell book
+event 2001-01-01
+event /from 2001-01-01 /to 2001-01-02
+event /from Thursday /to Friday
+event sell book /from Thursday /to Friday
+mark 1
+mark 2
+mark 
+mark one
+mark 200
+unmark 1
+unmark
+unmark one
+unmark 200
+list
+list 1
+list one
+delete 1
+delete
+delete one
+delete 200
+print
+find book
+find return
+find two
+find
+finding one
+bye
