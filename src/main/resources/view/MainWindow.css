@@ -10,6 +10,13 @@
     -fx-border-width: 2px !important;
 }
 
+.dialog {
+    -fx-border-color: #00ffff !important;
+    -fx-border-width: 2px !important;
+    -fx-padding: 10px !important;
+    -fx-border-radius: 10px !important;
+}
+
 .dialog-container {
     -fx-background-color: #F6FFC1 !important;
 }
